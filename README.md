@@ -3,6 +3,8 @@
 
 # Project Overview
 The aim of this project is to examine the relationship between public transportation data and traffic density data in Istanbul. By examining this data, we aim to reach potential connections that can provide valuable suggestions for urban planning and transportation in a crowd city like Istanbul. Data will be collected separately for each month from 2024 and both datasets will be accessible from the Open Data Portal of the Istanbul Metropolitan Municipality.
+https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set
+https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set
 
 -Do public transport and traffic density progress inversely or directly proportional to each other?
 -Are public transport and traffic independent of each other, showing mass independence?
