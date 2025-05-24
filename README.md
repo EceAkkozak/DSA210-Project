@@ -1,6 +1,6 @@
 # DSA210-Project
 
-##
+##According to the feedback I received before the Machine Learning step of my project, I realized that I could not fully provide what was expected from me in the project. My previous project, which is located on my github under the name of old version, consisted of Istanbul traffic density and public transportation data sets. While I was planning to cover the last quarter of 2024, when I looked back at my data sets, I noticed that there was a big inconsistency between the time periods they covered, the public transportation data had stopped being shared after a certain period of time. For this reason, I kept my traffic density data and added weather data to it, and started working from scratch with Istanbul traffic density and weather for January 2024. While I was re-doing my project, I realized that the previous version of my project was quite incomplete, and this time the work I put forward was shaped within the scope of feedback and office hours, I hope it meets expectations.
 
 ## Project Overview
 This project focuses on analyzing the relationship between weather conditions and traffic density in Istanbul. 
