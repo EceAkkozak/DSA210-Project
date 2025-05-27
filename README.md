@@ -9,9 +9,9 @@ As Istanbul is a densely populated metropolitan area, understanding how weather 
 The dataset includes hourly weather records and traffic intensity metrics, merged and cleaned for analysis. Basic statistical tests and machine learning models are used to quantify the strength of these relationships and to forecast daily average speeds under varying weather conditions.
 
 ## Data Sources
-Weather Data: Collected from Visual Crossing website where Istanbul's daily weather conditions for January 2024. (https://www.visualcrossing.com/weather-query-builder/)
+Weather Data: Collected from Visual Crossing website where Istanbul's hourly weather conditions for January 2024. (https://www.visualcrossing.com/weather-query-builder/)
 
-Traffic Density Data: İBB’s database where traffic density is shown by minimum speed, maximum speed, and average speed. (https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set)
+Traffic Density Data: İBB’s database where traffic density from Istanbul's January 2024 hourly data is shown by minimum speed, maximum speed, and average speed. (https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set)
 
 ## Motivation
 Istanbul frequently struggles with traffic congestion, often worsened by unpredictable weather patterns. By uncovering the statistical links between atmospheric conditions and traffic performance, this project aims to support smarter, data-driven traffic management strategies. In the long term, these insights can aid city authorities in making informed decisions to mitigate congestion, especially during adverse weather conditions.
