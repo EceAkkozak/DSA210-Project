@@ -43,8 +43,3 @@ This project is expected to reveal how weather variations affect traffic flow in
 The correlation heatmap confirms that temp and feelslike are nearly identical (ρ = 0.98), which is expected and suggests potential redundancy. AVERAGE_SPEED is strongly correlated with both MINIMUM_SPEED (0.79) and MAXIMUM_SPEED (0.81), validating internal consistency in traffic data.
 Weather-related variables show weak correlations with AVERAGE_SPEED, such as windspeed (−0.04), precip (−0.01), and humidity (−0.02), indicating that no single weather factor dominates speed outcomes linearly. However, this does not rule out nonlinear or interaction effects, which could be further explored in the modeling stage.
 
-### Average Speed by Precipitation Level (Binned)
-
-![Average Speed by Precipitation Level](images/avg_speed_by_precip_bin.png)
-
-This boxplot shows how average vehicle speed varies across different levels of precipitation. As precipitation increases, average speeds tend to decrease, indicating a cautious driving behavior under wetter conditions.
