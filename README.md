@@ -33,3 +33,10 @@ The analysis was conducted using:
 
 ## Expected Outcome
 This project is expected to reveal how weather variations affect traffic flow in Istanbul and to what extent these factors can be used to predict average daily speed. By visualizing patterns and building a basic linear regression model, the study seeks to generate actionable insights for municipal transportation departments. These findings may support the design of weather-adaptive traffic control systems and help reduce congestion through anticipatory planning.
+
+
+
+## Exploratory Data Analysis (EDA)
+https://files09.oaiusercontent.com/file-KpLCFT6sHdc9nK3LytbePp?se=2025-05-27T20%3A19%3A11Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D26d059aa-ba9b-438d-9324-0cbf2c36245b.png&sig=lJ6Xkh636zLyyxZj8WIbx577VGTeh/Tm6ZsvbzOv9Uk%3D![image](https://github.com/user-attachments/assets/2849b69a-a985-4074-95cc-12008904aa8f)
+
+
