@@ -10,6 +10,7 @@ The dataset includes hourly weather records and traffic intensity metrics, merge
 
 ## Data Sources
 Weather Data: Collected from Visual Crossing website where Istanbul's daily weather conditions for January 2024. (https://www.visualcrossing.com/weather-query-builder/)
+
 Traffic Density Data: İBB’s database where traffic density is shown by minimum speed, maximum speed, and average speed. (https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set)
 
 ## Motivation
